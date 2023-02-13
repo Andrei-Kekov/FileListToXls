@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileListToXls": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Фигня\\Raynor"
+    }
+  }
+}
